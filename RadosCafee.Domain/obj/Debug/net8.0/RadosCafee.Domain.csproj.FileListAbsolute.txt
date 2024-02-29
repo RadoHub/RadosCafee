@@ -1,0 +1,12 @@
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\bin\Debug\net8.0\RadosCafee.Domain.deps.json
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\bin\Debug\net8.0\RadosCafee.Domain.dll
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\bin\Debug\net8.0\RadosCafee.Domain.pdb
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.csproj.AssemblyReference.cache
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.AssemblyInfoInputs.cache
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.AssemblyInfo.cs
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.dll
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\refint\RadosCafee.Domain.dll
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\RadosCafee.Domain.pdb
+C:\Users\Rado\Desktop\RadosCafe\RadosCafee\RadosCafee.Domain\obj\Debug\net8.0\ref\RadosCafee.Domain.dll

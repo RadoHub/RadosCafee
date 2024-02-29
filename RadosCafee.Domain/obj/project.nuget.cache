@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtM3glmq162sQB97MOxnAGx8YF9sFFQCBW+cv2He/6m6ajuQXm1uGF3EIX1lEvZolMXHtnlL1L72TOgxS1A5XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rado\\Desktop\\RadosCafe\\RadosCafee\\RadosCafee.Domain\\RadosCafee.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rado\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Rado\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rado\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
