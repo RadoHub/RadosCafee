@@ -1,0 +1,6 @@
+@RadosCafee.WebAPI3_HostAddress = http://localhost:5103
+
+GET {{RadosCafee.WebAPI3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

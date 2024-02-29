@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RadosCafee.WebAPI3.props" />
+</Project>

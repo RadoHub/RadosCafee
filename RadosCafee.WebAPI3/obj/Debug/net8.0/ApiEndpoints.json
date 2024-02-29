@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "RadosCafee.WebAPI3.Controllers.MealController",
+    "Method": "GetMeals",
+    "RelativePath": "api/Meal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RadosCafee.Shared.Concrete.Result\u00601[[System.Collections.Generic.List\u00601[[RadosCafee.Application.Features.Meals.Queries.GetAllMeals.GetAllMealsDto, RadosCafee.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RadosCafee.WebAPI3.Controllers.MealController",
+    "Method": "Create",
+    "RelativePath": "api/Meal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "RadosCafee.Application.Features.Meals.Commands.CreateMealCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RadosCafee.Shared.Concrete.Result\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
